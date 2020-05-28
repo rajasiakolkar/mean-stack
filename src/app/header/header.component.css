@@ -1,0 +1,20 @@
+:host {
+  display: block;
+  margin-bottom: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0;
+  display: flex;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
